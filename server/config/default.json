@@ -1,0 +1,4 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://dbAdmin:Zxcvbnm_123@cloud.ae04v.mongodb.net/watch-service?retryWrites=true&w=majority"
+}
